@@ -1,0 +1,3 @@
+[submodule "movie-lists"]
+	path = movie-lists
+	url = git@github.com:code-magi/movie-lists.git
