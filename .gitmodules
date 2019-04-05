@@ -1,6 +1,3 @@
-[submodule "movie-lists"]
-	path = movie-lists
-	url = git@github.com:code-magi/movie-lists.git
 [submodule "131MicropostsDB"]
 	path = 131MicropostsDB
 	url = git@github.com:db585/131MicropostsDB.git
