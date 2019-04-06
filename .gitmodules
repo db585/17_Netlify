@@ -3,4 +3,4 @@
 	url = https://github.com/db585/131MicropostsDB.git
 [submodule "movie-lists"]
 	path = movie-lists
-	url = git@github.com:code-magi/movie-lists.git
+	url = https://github.com/code-magi/movie-lists.git
