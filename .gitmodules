@@ -4,3 +4,4 @@
 [submodule "movie-lists"]
 	path = movie-lists
 	url = https://github.com/code-magi/movie-lists.git
+  branch = v2.0
