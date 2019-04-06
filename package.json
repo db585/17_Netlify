@@ -6,9 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "131MicropostsDB": "git+https://aa177de8abf97ac8d057167c92c053d12e5b4d4c:x-oauth-basic@github.com/db585/131MicropostsDB.git"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/db585/17_Netlify.git"
