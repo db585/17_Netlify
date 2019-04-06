@@ -1,0 +1,23 @@
+{
+  "name": "17_Netlify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "131MicropostsDB": "git+https://aa177de8abf97ac8d057167c92c053d12e5b4d4c:x-oauth-basic@github.com/db585/131MicropostsDB.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/db585/17_Netlify.git"
+  },
+  "keywords": [],
+  "author": "db585 <jscriptor5@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/db585/17_Netlify/issues"
+  },
+  "homepage": "https://github.com/db585/17_Netlify#readme"
+}
